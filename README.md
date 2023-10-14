@@ -1,4 +1,5 @@
 # MERN_STACK_WEB_DEVELOPEMENT
+# DAY1-Simple_Resume
 # output images
 ![image](https://github.com/kalirishik/DAY1-Simple_resume/assets/110583211/ef0f1c3f-3032-4e00-8ea1-32036668ef2d)
 ![image](https://github.com/kalirishik/DAY1-Simple_resume/assets/110583211/e5cf4c21-33b1-4bf4-887a-4fd9ac3907c8)
